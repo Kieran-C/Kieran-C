@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieran-C&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran-C&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kieran-C/Kieran-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
