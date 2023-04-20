@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/Kieran-C/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Kieran-C/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **Kieran-C/Kieran-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
