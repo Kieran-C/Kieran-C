@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&center=true&vCenter=true&random=false&width=550&lines=Kieran+Caruana;Associate+Software+Devloper;Java+%7C+Python+%7C+TypeScript)](https://git.io/typing-svg)
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
