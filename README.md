@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&center=true&vCenter=true&random=false&width=550&lines=Kieran+Caruana;Associate+Software+Devloper;Java+%7C+Python+%7C+TypeScript)](https://git.io/typing-svg)
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Kieran-C&style=flat-square&logo=github&lcolor=000000&color=ffffff)
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
@@ -15,6 +16,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 </a>
 
 </div>
+
+
 <!--
 **Kieran-C/Kieran-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
